@@ -1,7 +1,7 @@
 {
   "name": "project_tooling",
   "version": "1.0.0",
-  "description": "Linting | Formating | Styling",
+  "description": "Linting | Formatting | Styling",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
