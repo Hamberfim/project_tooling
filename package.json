@@ -1,0 +1,23 @@
+{
+  "name": "project_tooling",
+  "version": "1.0.0",
+  "description": "Linting | Formating | Styling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamberfim/project_tooling.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamberfim/project_tooling/issues"
+  },
+  "homepage": "https://github.com/Hamberfim/project_tooling#readme",
+  "devDependencies": {
+    "eslint": "^8.36.0"
+  }
+}
