@@ -1,3 +1,5 @@
+// npx eslint .
+// npx eslint . --fix
 {
   "root": true,
   "parserOptions": {

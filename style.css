@@ -1,0 +1,10 @@
+/* npx stylelint style.css 
+   npx stylelint style.css --fix */
+div {
+  padding: 10px;
+  padding-left: 20px;
+}
+
+p {
+  color: #444;
+}
