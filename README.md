@@ -1,2 +1,2 @@
 ## Project Tooling
-Linting | Formating | Styling
+Linting | Formatting | Styling
