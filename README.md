@@ -1,1 +1,2 @@
-# project_tooling
+## Project Tooling
+Linting | Formating | Styling
